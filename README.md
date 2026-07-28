@@ -21,54 +21,92 @@ The primary objective of this dashboard is to:
 •	Support data-driven retention strategies to reduce customer attrition. 
 
 ## Tools & Technologies Used
-•	Power BI Desktop 
+•	Power BI Desktop
+
 •	Power Query 
+
 •	DAX (Data Analysis Expressions) 
+
 •	Data Modeling 
+
 •	Excel / CSV Dataset
 
 ## Dataset Information
 The dataset contains customer information collected from a telecom service provider.
 It includes:
+
 •  Customer ID 
+
 •  Gender 
+
 •  Senior Citizen 
+
 •  Partner 
+
 •  Dependents 
+
 •  Tenure 
+
 •  Phone Service 
-•  Multiple Lines 
+
+•  Multiple Lines
+
 •  Internet Service 
+
 •  Online Security 
+
 •  Online Backup 
+
 •  Device Protection 
+
 •  Tech Support 
+
 •  Streaming TV 
+
 •  Streaming Movies 
+
 •  Contract Type 
+
 •  Paperless Billing 
-•  Payment Method 
+
+•  Payment Method
+
 •  Monthly Charges 
+
 •  Total Charges 
+
 •  Churn Status
 
 ## Key Performance Indicators (KPIs)
 The dashboard includes the following business KPIs:
+
 •	Total Churn Customers 
+
 •	Churn Rate (%) 
+
 •	Monthly Charges 
+
 •	Total Charges
+
 •	Churned Customers by Gender
+
 •	Senior Citizen (%)
+
 •	Partners (%)
+
 •	Dependents (%)
 
 ## Power BI Features Implemented
 •	Interactive Slicers 
-•	Drill-through Reports 
+
+•	Drill-through Reports
+
 •	KPI Cards 
+
 •	Custom DAX Measures 
-•	Data Modeling 
+
+•	Data Modeling
+
 •	Power Query Data Transformation
 
 ## Dashboard
@@ -77,17 +115,26 @@ The dashboard includes the following business KPIs:
 
 ## Business Insights
 •  Customers with higher monthly charges tend to churn more frequently. 
+
 •  Subscribers without value-added services such as online security and technical support show increased churn rates. 
+
 •  Electronic check users have a higher churn percentage compared to other payment methods. 
+
 •  Customers with shorter tenure are more likely to discontinue their subscriptions. 
+
 •  Long-term contracts and bundled services are associated with better customer retention.
 
 ## Business Recommendations
 Based on the analysis, telecom companies should consider the following actions:
-•	Encourage customers to switch from month-to-month to annual or multi-year contracts. 
+
+•	Encourage customers to switch from month-to-month to annual or multi-year contracts.
+
 •	Promote value-added services such as Online Security and Tech Support. 
+
 •	Launch targeted retention campaigns for new customers during their first year. 
+
 •	Offer personalized discounts to high-risk customers identified by the dashboard. 
+
 •	Improve customer engagement through loyalty programs and proactive support.
 
 ## Conclusion
